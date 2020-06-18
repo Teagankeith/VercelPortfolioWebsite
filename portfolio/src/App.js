@@ -50,7 +50,7 @@ function App() {
 							<section class="posts">
 								<article>
 									<header>
-										<h2><a href="#">Sed magna<br />
+										<h2><a href="#">Water My Plants( UI )<br />
 										ipsum faucibus</a></h2>
 									</header>
 									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
